@@ -1,0 +1,63 @@
+body{
+  background-color: rgb(32,64,86);
+  font-family: Arial;
+  font-size: large;
+  color: aliceblue;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+h1{
+  background-color: rgb(69,108,130);
+  width: max-content;
+  padding: 2.5%;
+  border-radius: 50px;
+}
+
+h2{
+  background-color: rgb(69,108,130);
+  width: max-content;
+  padding: 2%;
+  border-radius: 50px;
+}
+
+li{
+  margin: 20px;
+}
+
+.code{
+  font-family: monospace;
+  font-size: larger;
+  background-color: rgb(69,108,130);
+  padding: 0.5%;
+  border-radius: 5px;
+}
+
+.items{
+  margin-bottom: 25px;
+}
+
+/*
+#The-Box-Model{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+} 
+
+#mrgin{
+  height: max-content;
+  width: 90%;
+  border: 1px solid black;
+  text-align: center;
+}
+
+#border{
+  height: 80%;
+  width: 80%;
+  border: 1px solid black;
+  text-align: center;
+}
+
+https://imagelr.com/
+
+*/
